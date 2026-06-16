@@ -1,0 +1,310 @@
+{
+  "id": "ug-eng-minor",
+  "title": "MINOR 6 - Screening Test",
+  "department": "PG Department of English",
+  "duration": 30,
+  "totalQuestions": 30,
+  "readingMaterial": "# The Fascinating World of Cinema\n\nCinema is often called the \"seventh art\" because it combines many art forms such as literature, music, painting, photography, dance, and theatre. Since its invention in the late nineteenth century, cinema has become one of the most influential forms of entertainment and communication in the world.\n\nThe first public film screenings were held in the 1890s. These early films were very short and silent. Actors could not speak on screen, so stories were told through actions, facial expressions, and title cards. In 1927, the release of *The Jazz Singer* marked a major turning point because it was among the first successful films to include synchronized sound. This innovation transformed the film industry and changed audience expectations forever.\n\nFilms are usually classified into genres. Popular genres include action, comedy, drama, horror, science fiction, fantasy, romance, and documentary. Each genre follows certain conventions. For example, action films often feature fast-paced sequences and physical conflict, while science-fiction films explore futuristic technology, space travel, or imagined worlds.\n\nBehind every film is a large team of creative professionals. The director is often considered the artistic leader of a film. Screenwriters create the story and dialogue. Cinematographers decide how scenes are filmed, while editors arrange the footage to create a smooth narrative. Music composers and sound designers help create emotional impact and atmosphere.\n\nOne of the most important elements of cinema is cinematography. Camera angles and shots influence how audiences feel about a scene. A close-up can reveal a character's emotions, while a long shot can show the surrounding environment. Lighting is equally important. Bright lighting may create a cheerful mood, whereas shadows can create suspense or mystery.\n\nSpecial effects have always been part of cinema. Early filmmakers used simple tricks such as double exposure and miniature models. Modern films often use computer-generated imagery (CGI) to create realistic creatures, imaginary worlds, and spectacular action sequences. However, many filmmakers believe that technology should support storytelling rather than replace it.\n\nFilm awards celebrate excellence in cinema. One of the most famous international awards is the Academy Awards, popularly known as the Oscars. Many countries also have their own national film awards that recognize achievements in acting, directing, music, writing, and technical fields.\n\nCinema has a powerful cultural influence. Films can introduce audiences to different societies, languages, and traditions. Historical films help people learn about the past, while documentaries explore real-life events and issues. Many films also address social concerns such as equality, education, environmental protection, and human rights.\n\nToday, audiences watch films in theatres, on television, and through online streaming platforms. Digital technology has made films more accessible than ever before. Despite these changes, the fundamental purpose of cinema remains the same: to tell engaging stories that entertain, inform, and inspire people around the world.",
+  "questions": [
+    {
+      "text": "Why is cinema often called the \"seventh art\"?",
+      "options": [
+        "It is the seventh invention in history",
+        "It combines several art forms into one medium",
+        "It was invented in seven countries",
+        "It has seven genres"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Early films were mainly?",
+      "options": [
+        "Color films with sound",
+        "Animated films",
+        "Silent films with no spoken dialogue",
+        "Streaming productions"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "How did audiences understand stories in silent films?",
+      "options": [
+        "Through subtitles only",
+        "Through actions, expressions, and title cards",
+        "Through radio broadcasts",
+        "Through narrators in theatres"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Why is The Jazz Singer important in film history?",
+      "options": [
+        "It introduced color cinema",
+        "It was among the first successful sound films",
+        "It invented CGI",
+        "It won the first Oscar"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "A genre is best defined as?",
+      "options": [
+        "A film award",
+        "A category of films with similar characteristics",
+        "A camera technique",
+        "A type of actor"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Which genre is most likely to explore futuristic technology?",
+      "options": [
+        "Romance",
+        "Drama",
+        "Science Fiction",
+        "Documentary"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "The director is usually responsible for?",
+      "options": [
+        "Selling tickets",
+        "Leading the artistic vision of the film",
+        "Designing cinema halls",
+        "Writing reviews"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "What is the primary role of a screenwriter?",
+      "options": [
+        "Operate cameras",
+        "Create stories and dialogue",
+        "Edit scenes",
+        "Compose music"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Cinematographers are mainly concerned with?",
+      "options": [
+        "Marketing films",
+        "How scenes are visually filmed",
+        "Theatre management",
+        "Award ceremonies"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Editors contribute to a film by?",
+      "options": [
+        "Designing costumes",
+        "Arranging footage into a coherent story",
+        "Promoting the film",
+        "Building sets"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "A close-up shot is mainly used to?",
+      "options": [
+        "Show landscapes",
+        "Reveal a character's emotions",
+        "Show large crowds",
+        "Display action scenes"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "A long shot is useful for showing?",
+      "options": [
+        "Facial details only",
+        "The broader environment or setting",
+        "Dialogue only",
+        "Sound effects"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Shadows in lighting often create?",
+      "options": [
+        "Excitement and joy",
+        "Mystery or suspense",
+        "Comedy",
+        "Romance"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "According to the passage, special effects in early cinema included?",
+      "options": [
+        "CGI only",
+        "Motion capture",
+        "Double exposure and miniature models",
+        "Streaming technology"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "CGI stands for technology used to?",
+      "options": [
+        "Create visual effects and digital imagery",
+        "Record soundtracks",
+        "Edit scripts",
+        "Distribute films"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "What caution do many filmmakers express about technology?",
+      "options": [
+        "Technology should replace actors",
+        "Technology should support storytelling, not replace it",
+        "Technology should be banned",
+        "Technology is unnecessary"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "The Oscars are?",
+      "options": [
+        "A film genre",
+        "An international film award",
+        "A streaming platform",
+        "A film studio"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Film awards recognize excellence in?",
+      "options": [
+        "Only acting",
+        "Only directing",
+        "Various artistic and technical fields",
+        "Ticket sales only"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Historical films can help audiences?",
+      "options": [
+        "Learn about the past",
+        "Predict the future",
+        "Understand mathematics",
+        "Avoid social issues"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Documentaries primarily focus on?",
+      "options": [
+        "Imaginary worlds",
+        "Real-life events and issues",
+        "Superheroes only",
+        "Romantic stories"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "According to the passage, films can introduce audiences to?",
+      "options": [
+        "Different cultures and traditions",
+        "Only celebrities",
+        "Only technology",
+        "Only sports"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Which social issue mentioned in the passage may be explored through cinema?",
+      "options": [
+        "Environmental protection",
+        "Planetary geology",
+        "Sports rankings",
+        "Computer coding"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "What major change has digital technology brought to cinema?",
+      "options": [
+        "It eliminated storytelling",
+        "It made films more accessible to audiences",
+        "It ended theatre screenings",
+        "It removed directors from filmmaking"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Which statement best reflects the author's view?",
+      "options": [
+        "Cinema is only entertainment",
+        "Cinema combines entertainment, education, and cultural influence",
+        "Technology is more important than stories",
+        "Awards are the purpose of filmmaking"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "If a filmmaker wants viewers to understand a character's feelings, which technique from the passage would be most effective?",
+      "options": [
+        "Long shot",
+        "Close-up shot",
+        "Film poster",
+        "Streaming release"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Which profession would be most responsible for creating a film's atmosphere through music?",
+      "options": [
+        "Screenwriter",
+        "Editor",
+        "Composer",
+        "Distributor"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Which statement best summarizes the relationship between technology and cinema?",
+      "options": [
+        "Technology continually changes how films are made and viewed",
+        "Technology has no effect on cinema",
+        "Technology only affects ticket sales",
+        "Technology replaces creativity entirely"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "A student who understands the passage should recognize that cinema is?",
+      "options": [
+        "A collaborative art form involving many specialists",
+        "The work of actors alone",
+        "Only a commercial product",
+        "A modern invention with no history"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "The passage suggests that films remain important because they?",
+      "options": [
+        "Win awards",
+        "Provide jobs",
+        "Tell stories that entertain, inform, and inspire people",
+        "Use advanced technology"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Which statement best captures the overall message of the reading?",
+      "options": [
+        "Cinema has evolved through technology while continuing to influence culture and storytelling worldwide",
+        "Silent films are superior to modern films",
+        "Awards are the most important part of cinema",
+        "Technology is the only reason films are popular"
+      ],
+      "correct": 0
+    }
+  ]
+}

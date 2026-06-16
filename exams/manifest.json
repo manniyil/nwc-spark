@@ -15,6 +15,14 @@
       "totalQuestions": 40,
       "department": "PG Department of English",
       "active": true
+    },
+    {
+      "id": "ug-eng-minor",
+      "title": "MINOR 6 - Screening Test",
+      "duration": 30,
+      "totalQuestions": 30,
+      "department": "PG Department of English",
+      "active": true
     }
   ]
 }

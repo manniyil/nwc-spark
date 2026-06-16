@@ -1,0 +1,20 @@
+{
+  "exams": [
+    {
+      "id": "ug-eng-sem3",
+      "title": "UG English Semester III",
+      "duration": 60,
+      "totalQuestions": 30,
+      "department": "PG Department of English",
+      "active": true
+    },
+    {
+      "id": "ma-eng-sem2",
+      "title": "MA English Semester II",
+      "duration": 90,
+      "totalQuestions": 40,
+      "department": "PG Department of English",
+      "active": true
+    }
+  ]
+}

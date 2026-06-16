@@ -6,7 +6,7 @@
       "duration": 60,
       "totalQuestions": 30,
       "department": "PG Department of English",
-      "active": true
+      "active": false
     },
     {
       "id": "ma-eng-sem2",
@@ -14,7 +14,7 @@
       "duration": 90,
       "totalQuestions": 40,
       "department": "PG Department of English",
-      "active": true
+      "active": false
     },
     {
       "id": "ug-eng-minor",

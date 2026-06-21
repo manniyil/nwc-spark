@@ -1,0 +1,210 @@
+{
+  "id": "ug6-mla",
+  "title": "ENG6-UG-VI-MLA-TEST",
+  "department": "PG Department of English",
+  "duration": 30,
+  "totalQuestions": 20,
+  "readingMaterial": "# Understanding MLA 9th Edition\n\nMLA (Modern Language Association) style is a system used for writing research papers, essays, and academic projects, especially in literature and humanities. The latest version is the 9th edition. It helps writers present their ideas clearly and give proper credit to sources.\n\nOne important rule in MLA is **in-text citation**. When a writer uses someone else's ideas, words, or information, they must mention the author's last name and page number in brackets. For example: (Shakespeare 45). This helps readers find the exact source.\n\nAt the end of the paper, writers must include a **Works Cited** page. This page lists all the sources used in the paper. The title “Works Cited” should be centered at the top of the page.\n\nMLA follows a standard format. The paper should be typed in **Times New Roman**, size 12, with double spacing. Margins should be one inch on all sides. The first line of each paragraph should be indented.\n\nIn MLA 9th edition, every source entry follows a general pattern:\n**Author. Title of Source. Title of Container, Other Contributors, Version, Number, Publisher, Publication Date, Location.**\n\nA **container** is the larger work where the source is found. For example, an article may be inside a journal, or a poem may be inside an anthology.\n\nBook titles are written in *italics*, while titles of articles, poems, or short stories are placed inside quotation marks.\n\nMLA also encourages writers to include URLs for online sources, but “https://” is not always necessary. If a source has a DOI (Digital Object Identifier), it is preferred over a URL.\n\nPlagiarism means using another person's work without giving credit. MLA rules help prevent plagiarism by showing exactly where ideas and quotations come from.\n\nMLA style makes academic writing more organized, clear, and trustworthy. It allows readers to check sources easily and understand where information has been taken from.",
+  "questions": [
+    {
+      "text": "What does MLA stand for?",
+      "options": [
+        "Modern Literature Association",
+        "Modern Language Association",
+        "Major Learning Academy",
+        "Media Language Analysis"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "MLA style is mainly used in?",
+      "options": [
+        "Medicine",
+        "Engineering",
+        "Humanities and literature",
+        "Mathematics"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "What is the latest MLA version mentioned in the passage?",
+      "options": [
+        "7th edition",
+        "8th edition",
+        "9th edition",
+        "10th edition"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Why is MLA style important?",
+      "options": [
+        "To increase word count",
+        "To organize writing and give credit to sources",
+        "To make writing shorter",
+        "To avoid paragraphs"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "What is an in-text citation used for?",
+      "options": [
+        "To decorate the essay",
+        "To show the source of borrowed ideas",
+        "To add page numbers",
+        "To summarize the paper"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Which is the correct MLA in-text citation example?",
+      "options": [
+        "(45 Shakespeare)",
+        "Shakespeare, page 45",
+        "(Shakespeare 45)",
+        "[Shakespeare:45]"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "What is the name of the page listing all sources?",
+      "options": [
+        "Bibliography",
+        "Reference List",
+        "Works Cited",
+        "Source Page"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Where should the title “Works Cited” be placed?",
+      "options": [
+        "Left side",
+        "Right side",
+        "Bottom of page",
+        "Centered at the top"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "Which font is recommended in MLA?",
+      "options": [
+        "Arial",
+        "Calibri",
+        "Times New Roman",
+        "Verdana"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "What font size does MLA require?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "14"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "MLA papers should be?",
+      "options": [
+        "Single spaced",
+        "Double spaced",
+        "Triple spaced",
+        "No spacing"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "How wide should the margins be?",
+      "options": [
+        "Half inch",
+        "Two inches",
+        "One inch",
+        "Three inches"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "In MLA, book titles are written in?",
+      "options": [
+        "Bold",
+        "Underline",
+        "Italics",
+        "Quotation marks"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Short story titles are written in?",
+      "options": [
+        "Italics",
+        "Quotation marks",
+        "Bold",
+        "Capital letters"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "What is a “container” in MLA?",
+      "options": [
+        "A storage box for books",
+        "The larger work in which a source appears",
+        "A type of citation",
+        "A paragraph format"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Which is preferred in online citations if available?",
+      "options": [
+        "URL",
+        "DOI",
+        "Website name",
+        "Page number"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "What does DOI stand for?",
+      "options": [
+        "Digital Object Identifier",
+        "Direct Online Information",
+        "Document Online Index",
+        "Data Object Internet"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "What is plagiarism?",
+      "options": [
+        "Writing original ideas",
+        "Copying another person's work without credit",
+        "Quoting with citation",
+        "Editing a source"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "MLA helps prevent plagiarism by?",
+      "options": [
+        "Removing sources",
+        "Showing where information comes from",
+        "Shortening essays",
+        "Changing titles"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "The overall purpose of MLA style is to?",
+      "options": [
+        "Make essays decorative",
+        "Make academic writing clear, organized, and trustworthy",
+        "Reduce reading time",
+        "Replace original ideas"
+      ],
+      "correct": 1
+    }
+  ]
+}

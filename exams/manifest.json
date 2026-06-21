@@ -7,6 +7,14 @@
       "totalQuestions": 30,
       "department": "PG Department of English",
       "active": true
+    },
+    {
+      "id": "ug6-mla",
+      "title": "ENG6-UG-VI-MLA-TEST",
+      "duration": 30,
+      "totalQuestions": 20,
+      "department": "PG Department of English",
+      "active": true
     }
   ]
 }

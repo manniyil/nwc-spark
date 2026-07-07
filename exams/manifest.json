@@ -23,14 +23,6 @@
       "totalQuestions": 30,
       "department": "PG Department of English",
       "active": true
-    },
-    {
-      "id": "test",
-      "title": "TEST",
-      "duration": 10,
-      "totalQuestions": 2,
-      "department": "PG Department of English",
-      "active": false
     }
   ]
 }

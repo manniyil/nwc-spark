@@ -1,10 +1,10 @@
 {
   "exams": [
     {
-      "id": "ug-eng-minor",
-      "title": "MINOR 6 - Screening Test",
-      "duration": 30,
-      "totalQuestions": 30,
+      "id": "ug-5-capernaum",
+      "title": "Capernaum",
+      "duration": 20,
+      "totalQuestions": 20,
       "department": "PG Department of English",
       "active": true
     },
@@ -17,10 +17,18 @@
       "active": true
     },
     {
-      "id": "ug-5-capernaum",
-      "title": "Capernaum",
-      "duration": 20,
-      "totalQuestions": 20,
+      "id": "ug-eng-minor",
+      "title": "MINOR 6 - Screening Test",
+      "duration": 30,
+      "totalQuestions": 30,
+      "department": "PG Department of English",
+      "active": true
+    },
+    {
+      "id": "test",
+      "title": "TEST",
+      "duration": 10,
+      "totalQuestions": 2,
       "department": "PG Department of English",
       "active": true
     }

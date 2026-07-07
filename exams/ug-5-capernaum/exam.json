@@ -1,0 +1,210 @@
+{
+  "id": "ug-5-capernaum",
+  "title": "Capernaum",
+  "department": "PG Department of English",
+  "duration": 20,
+  "totalQuestions": 20,
+  "readingMaterial": "Capernaum (2018): A Cry for Children's Rights\n\nCapernaum (2018), directed by Nadine Labaki, is a Lebanese social realist drama that presents the harsh realities faced by children living in extreme poverty. The film follows twelve-year-old Zain, an intelligent but illiterate boy who survives in the slums of Beirut. His life changes when his younger sister, Sahar, is forced into child marriage by their parents. Unable to accept the injustice, Zain runs away from home in search of a better life.\n\nWhile living on the streets, Zain meets Rahil, an undocumented Ethiopian migrant worker, and her infant son, Yonas. Although Rahil herself struggles with poverty and legal insecurity, she offers Zain food and shelter. Their relationship briefly gives him a sense of belonging and family. However, Rahil is later arrested because she lacks legal documents, leaving Zain responsible for caring for Yonas. As he attempts to protect the child from exploitation and illegal adoption, he becomes trapped in circumstances beyond his control.\n\nEventually, Zain stabs Assadd, the man who had married his sister, in an act driven by anger and desperation. He is arrested and sentenced to juvenile prison. The film begins and ends in a courtroom, where Zain takes the extraordinary step of suing his own parents for bringing him into a life of suffering. Rather than focusing on the legal outcome, the film uses the lawsuit to question parental responsibility, social neglect, and the failure of institutions to protect vulnerable children.\n\nLabaki strengthens the film's realism by casting mostly non-professional actors, many of whom had experienced poverty or displacement themselves. The story was filmed in real neighborhoods rather than studio sets, creating an atmosphere that closely resembles documentary filmmaking. The camera captures the crowded streets, deteriorating buildings, and everyday struggles of Beirut's poorest communities without romanticizing poverty.\n\nBeyond telling one child's story, Capernaum addresses larger global concerns such as child labour, forced marriage, undocumented migration, statelessness, and human trafficking. The film argues that these problems are not isolated incidents but symptoms of deeper structural inequalities. Instead of offering a comforting resolution, it leaves viewers with difficult questions about justice, human dignity, and society's collective responsibility toward children.",
+  "questions": [
+    {
+      "text": "The central concern of the passage is best described as?",
+      "options": [
+        "The history of Lebanese cinema",
+        "The impact of systemic injustice on vulnerable children",
+        "The legal structure of juvenile courts",
+        "The economic development of Beirut"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Which statement would the author most likely support?",
+      "options": [
+        "Poverty is primarily the result of personal failure.",
+        "Social institutions share responsibility for protecting children.",
+        "Legal punishment always solves social problems.",
+        "Family relationships are beyond public concern."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "The primary purpose of the opening paragraph is to?",
+      "options": [
+        "Introduce the protagonist and the central conflict",
+        "Explain Lebanon's political history",
+        "Summarize the film's ending",
+        "Compare different film genres"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Which concept functions as the organizing principle of the passage?",
+      "options": [
+        "Revenge",
+        "Survival amid systemic injustice",
+        "Religious belief",
+        "Economic prosperity"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "The discussion of Rahil primarily serves to?",
+      "options": [
+        "Shift attention away from Zain",
+        "Illustrate broader issues of migration and vulnerability",
+        "Introduce comic relief",
+        "Explain courtroom procedures"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "According to the passage, Zain's lawsuit symbolizes?",
+      "options": [
+        "Personal revenge against his parents",
+        "A child's demand for justice and recognition",
+        "The collapse of the legal profession",
+        "His desire for financial compensation"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "The tone of the passage is best described as?",
+      "options": [
+        "Analytical and compassionate",
+        "Humorous and ironic",
+        "Romantic and nostalgic",
+        "Detached and indifferent"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "The concluding paragraph primarily serves to?",
+      "options": [
+        "Introduce new characters",
+        "Expand the discussion from one story to universal social issues",
+        "Explain technical aspects of filmmaking",
+        "Present statistical evidence"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "The relationship between Zain's personal story and wider social issues is?",
+      "options": [
+        "Accidental",
+        "Symbolic and interconnected",
+        "Contradictory",
+        "Irrelevant"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Which skill does the passage encourage most strongly?",
+      "options": [
+        "Memorizing film facts",
+        "Critical reflection on social injustice",
+        "Learning filmmaking techniques",
+        "Remembering character names"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "If the passage's ideas were applied to child labour in another country, the first step would be to?",
+      "options": [
+        "Blame individual families alone",
+        "Examine the structural causes behind exploitation",
+        "Ignore legal systems",
+        "Focus only on economic growth"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Which assumption is necessary for the passage's argument to remain convincing?",
+      "options": [
+        "Society has some responsibility toward vulnerable children.",
+        "Poverty cannot be reduced.",
+        "Courts always deliver justice.",
+        "Families are never responsible."
+      ],
+      "correct": 0
+    },
+    {
+      "text": "The references to real locations and non-professional actors mainly?",
+      "options": [
+        "Entertain the audience",
+        "Reinforce the film's authenticity",
+        "Increase the runtime",
+        "Reduce production costs"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "A critic of the passage would most likely challenge?",
+      "options": [
+        "The existence of poverty",
+        "The claim that structural factors outweigh individual responsibility",
+        "The film's Lebanese setting",
+        "The use of child actors"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Which situation best reflects the passage's argument about systemic injustice?",
+      "options": [
+        "A child denied education because of undocumented legal status",
+        "A student forgetting homework",
+        "An athlete losing a competition",
+        "A tourist visiting Beirut"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "The logical progression of the passage moves from?",
+      "options": [
+        "Technical filmmaking to awards",
+        "Personal experience to broader social critique",
+        "Economic statistics to historical analysis",
+        "Courtroom procedures to comedy"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Which evidence most strongly supports the passage's emphasis on realism?",
+      "options": [
+        "The use of famous Hollywood actors",
+        "Filming in real locations with non-professional performers",
+        "Extensive visual effects",
+        "A fictional courtroom setting"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "The author appears to treat legal institutions as?",
+      "options": [
+        "Perfectly effective",
+        "Necessary but limited in addressing structural injustice",
+        "Completely unnecessary",
+        "Superior to family relationships"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Which statement best captures the author's attitude toward poverty?",
+      "options": [
+        "Poverty is an unavoidable natural condition.",
+        "Poverty is closely connected to structural inequality.",
+        "Poverty exists because people refuse to work.",
+        "Poverty is unrelated to children's lives."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "The broader implication of the passage is that?",
+      "options": [
+        "Cinema can encourage awareness of social injustice.",
+        "Films exist only for entertainment.",
+        "Courts always solve social problems.",
+        "Poverty affects only one country."
+      ],
+      "correct": 0
+    }
+  ]
+}

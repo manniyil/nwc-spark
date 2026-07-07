@@ -15,6 +15,14 @@
       "totalQuestions": 20,
       "department": "PG Department of English",
       "active": true
+    },
+    {
+      "id": "ug-5-capernaum",
+      "title": "Capernaum",
+      "duration": 20,
+      "totalQuestions": 20,
+      "department": "PG Department of English",
+      "active": true
     }
   ]
 }

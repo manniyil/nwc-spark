@@ -30,7 +30,7 @@
       "duration": 10,
       "totalQuestions": 2,
       "department": "PG Department of English",
-      "active": true
+      "active": false
     }
   ]
 }

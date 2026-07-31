@@ -1,0 +1,210 @@
+{
+  "id": "ug-eng-sem1",
+  "title": "AEC - Introduction to Poetry",
+  "department": "PG Department of English",
+  "duration": 30,
+  "totalQuestions": 20,
+  "readingMaterial": "Introduction to Poetry by Billy Collins\n\nBilly Collins (born 1941) is one of the most celebrated contemporary American poets. He is admired for his simple language, conversational style, and gentle humour, which make his poems enjoyable and accessible to a wide range of readers. Collins served as the Poet Laureate of the United States from 2001 to 2003, an honour given to distinguished poets who have made significant contributions to literature. His poem Introduction to Poetry reflects his belief that poetry should be explored with curiosity and imagination rather than fear or anxiety.\n\nIn Introduction to Poetry, Collins presents a refreshing view of how poetry should be read. Instead of treating a poem as a puzzle with only one correct answer, he encourages readers to experience it through their senses and imagination. According to the poet, every reader may discover different meanings in a poem depending on personal experiences and perspectives. This openness makes poetry enjoyable and meaningful.\n\nThe poem begins with the speaker asking readers to hold the poem up to the light like a colour slide. This metaphor suggests that a poem should be examined from different angles so that its beauty, language, and ideas become visible. The speaker then invites readers to press an ear against the poem as though it were a beehive. This image appeals to the sense of hearing and encourages readers to appreciate the rhythm, sound, and music of poetry rather than rushing to explain its meaning.\n\nThe speaker continues by inviting readers to walk inside the poem like entering a room. This image suggests exploring the world created by the poet and becoming part of the experience. Another memorable image describes readers water-skiing across the surface of the poem while waving at the author's name on the shore. Through this playful metaphor, Collins suggests that readers do not always need to focus on the author's biography or search for hidden messages. Instead, they should enjoy the poem itself and allow it to speak to them naturally.\n\nThe poem is written in free verse, meaning that it does not follow a regular rhyme scheme or fixed metre. Collins also uses vivid metaphors, imagery, and symbolism throughout the poem. By comparing a poem to a colour slide, a beehive, a room, and a lake, he demonstrates that poetry can be approached in many different ways. These imaginative comparisons encourage readers to use their creativity rather than looking for only one \"correct\" interpretation.\n\nThe tone of the poem is mainly humorous, playful, and reflective. However, it becomes more critical in the final stanza. Collins describes students tying the poem to a chair with rope and beating it with a hose to force it to reveal its meaning. This shocking image is deliberately exaggerated and is an example of hyperbole, or humorous exaggeration. It symbolises the rigid methods of literary analysis that treat poetry as a problem to be solved instead of an experience to be enjoyed.\n\nThrough this powerful image, Collins criticises traditional methods of teaching poetry. He believes that many classrooms encourage students to search for hidden meanings while ignoring the pleasure of reading. Such forced interpretation often prevents readers from developing a genuine appreciation of literature. Instead, Collins argues that poetry should be approached with curiosity, imagination, and openness, allowing readers to discover their own understanding of a poem.\n\nThe speaker's attitude towards poetry is clearly appreciative and inviting. He believes that poetry is not a mathematical problem with a single solution but a living work of art that welcomes different interpretations. The central message of Introduction to Poetry is that readers should explore poetry freely, enjoy its language and imagery, and experience it with imagination rather than attempting to force a single meaning from every line. This approach makes poetry more enjoyable, personal, and rewarding for every reader.",
+  "questions": [
+    {
+      "text": "What is the central idea of \"Introduction to Poetry\"?",
+      "options": [
+        "Poetry should always have one meaning.",
+        "Poetry should be experienced and enjoyed.",
+        "Poetry is only for scholars.",
+        "Poetry is difficult to understand."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Who is the author of \"Introduction to Poetry\"?",
+      "options": [
+        "Robert Frost",
+        "Walt Whitman",
+        "Billy Collins",
+        "William Wordsworth"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Billy Collins served as the ________.",
+      "options": [
+        "President of America",
+        "Poet Laureate of the United States",
+        "British Poet Laureate",
+        "Nobel Prize Chairman"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "The speaker first asks readers to hold the poem up to the ________.",
+      "options": [
+        "Window",
+        "Fire",
+        "Light",
+        "Mirror"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "The poem compares itself to a ________.",
+      "options": [
+        "Mountain",
+        "Beehive",
+        "River",
+        "Tree"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Which literary device is most frequently used in the poem?",
+      "options": [
+        "Simile",
+        "Hyperbole",
+        "Metaphor",
+        "Alliteration"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "The image of walking inside the poem suggests ________.",
+      "options": [
+        "Escaping from poetry",
+        "Experiencing the poem fully",
+        "Memorizing the poem",
+        "Rejecting the poem"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "The students in the final stanza try to ________.",
+      "options": [
+        "Enjoy the poem",
+        "Sing the poem",
+        "Force the poem to reveal its meaning",
+        "Rewrite the poem"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "The violent images in the last stanza symbolize ________.",
+      "options": [
+        "Literary enjoyment",
+        "Creative writing",
+        "Forced interpretation",
+        "Natural beauty"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "The tone of the poem is mainly ________.",
+      "options": [
+        "Angry",
+        "Humorous and reflective",
+        "Tragic",
+        "Fearful"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "The poem is written in ________.",
+      "options": [
+        "Sonnet form",
+        "Heroic couplets",
+        "Free verse",
+        "Ballad form"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Collins believes poetry should be approached with ________.",
+      "options": [
+        "Fear",
+        "Curiosity",
+        "Suspicion",
+        "Indifference"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "The poem criticizes ________.",
+      "options": [
+        "Modern poets",
+        "Nature poetry",
+        "Traditional methods of teaching poetry",
+        "Poetry competitions"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "The \"hive\" in the poem mainly appeals to the sense of ________.",
+      "options": [
+        "Taste",
+        "Hearing",
+        "Smell",
+        "Touch"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Which of the following is NOT an image used in the poem?",
+      "options": [
+        "Colour slide",
+        "Beehive",
+        "Water-ski",
+        "Clock"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "The phrase \"wave at the author's name\" suggests that readers should ________.",
+      "options": [
+        "Focus only on the author's biography",
+        "Ignore the author completely",
+        "Enjoy the poem rather than obsess over the author",
+        "Memorize the author's life"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "The poem mainly encourages readers to ________.",
+      "options": [
+        "Memorize difficult meanings",
+        "Experience poetry through imagination",
+        "Avoid reading poetry",
+        "Criticize every poem"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "The final image of beating the poem is an example of ________.",
+      "options": [
+        "Humorous exaggeration",
+        "Personification only",
+        "Historical reference",
+        "Scientific explanation"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "The speaker's attitude toward poetry is ________.",
+      "options": [
+        "Appreciative and inviting",
+        "Hostile",
+        "Confused",
+        "Indifferent"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Which statement best reflects Billy Collins' view of poetry?",
+      "options": [
+        "Every poem has only one correct meaning.",
+        "Poetry should be solved like a mathematical problem.",
+        "Poetry should be explored through imagination and experience.",
+        "Poetry is useful only for examinations."
+      ],
+      "correct": 2
+    }
+  ]
+}

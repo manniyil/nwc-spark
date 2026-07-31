@@ -1,6 +1,14 @@
 {
   "exams": [
     {
+      "id": "ug-eng-sem1",
+      "title": "AEC - Introduction to Poetry",
+      "duration": 30,
+      "totalQuestions": 20,
+      "department": "PG Department of English",
+      "active": true
+    },
+    {
       "id": "ug-5-capernaum",
       "title": "Capernaum",
       "duration": 20,

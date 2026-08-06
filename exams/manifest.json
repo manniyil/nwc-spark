@@ -31,14 +31,6 @@
       "totalQuestions": 30,
       "department": "PG Department of English",
       "active": true
-    },
-    {
-      "id": "ug-eng-b1-bridge",
-      "title": "UG English - Bridge Course Exam",
-      "duration": 60,
-      "totalQuestions": 20,
-      "department": "PG Department of English",
-      "active": true
     }
   ]
 }

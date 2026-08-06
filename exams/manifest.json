@@ -2,8 +2,8 @@
   "exams": [
     {
       "id": "ug-eng-sem1",
-      "title": "BA English - Bridge Course Exam",
-      "duration": 60,
+      "title": "AEC - Introduction to Poetry",
+      "duration": 30,
       "totalQuestions": 20,
       "department": "PG Department of English",
       "active": true
@@ -22,7 +22,7 @@
       "duration": 30,
       "totalQuestions": 20,
       "department": "PG Department of English",
-      "active": true
+      "active": false
     },
     {
       "id": "ug-eng-m1-bridge",

@@ -1,0 +1,210 @@
+{
+  "id": "ug-eng-b1-bridge",
+  "title": "UG English - Bridge Course Exam",
+  "department": "PG Department of English",
+  "duration": 60,
+  "totalQuestions": 20,
+  "readingMaterial": "I'll answer as a world-famous **Professor of English Literature and Assessment Design**, specializing in undergraduate bridge-course examinations.\n\n**TL;DR**: An exam passage should read like an article from a university entrance or comprehension test—not like a textbook chapter. It should naturally embed literary concepts so students infer meanings while reading. Here's an example.\n\n---\n\n# Reading Passage\n\n## **Why Do We Read Literature?**\n\nEvery student has heard the word *literature*, yet many wonder what makes a story, poem, or play different from ordinary writing. A newspaper reports events. A recipe explains how to cook. A timetable tells us when a train will arrive. Literature, however, does something different. It invites readers to imagine, question, and experience life through another person's eyes. Rather than merely providing information, it explores emotions, ideas, relationships, and human nature.\n\nImagine walking into a large library for the first time. Thousands of books surround you. Some tell stories of kings and queens, while others describe ordinary people facing everyday struggles. Some books make readers laugh, whereas others leave them thinking long after the final page. Although these books differ greatly, they all share one important feature: each has something meaningful to communicate. Discovering that meaning is one of the main goals of literary study.\n\nMany beginning students assume that reading literature simply means following a story from beginning to end. They pay attention only to what happens. While understanding the sequence of events is important, experienced readers ask deeper questions. Why did the writer choose this setting? Why does a character behave in a particular way? Why does a storm appear just before an important event? Questions such as these help readers move beyond the surface of a text.\n\nConsider a short story about a young girl who dreams of becoming a doctor despite growing up in poverty. The story describes her daily struggles, her determination, and the obstacles she overcomes before finally achieving her goal. The events that occur—from her childhood to her success—form the **plot** of the story. However, the larger idea that determination can overcome hardship represents the **theme**. A single work often contains more than one theme, including hope, courage, education, or social equality.\n\nThe **setting** also plays a significant role. If the story takes place in a quiet village with limited educational opportunities, readers understand the girl's challenges differently than if the same events occurred in a wealthy city with excellent schools. Setting influences characters, creates atmosphere, and sometimes even shapes the ending itself.\n\nCharacters are the heart of every narrative. The central figure is known as the **protagonist**, while the person or force creating obstacles is called the **antagonist**. Interestingly, an antagonist is not always another individual. Nature, illness, fear, poverty, or society itself may oppose the protagonist. In many modern stories, the greatest conflict occurs within the mind of the main character rather than between two people.\n\nAuthors also create different kinds of characters. Some change significantly as the story progresses. A selfish person who learns kindness or a timid student who gains confidence are examples of **dynamic characters**. Others remain essentially the same throughout the story and are called **static characters**. Writers choose these different character types carefully because each serves a different purpose within the narrative.\n\nLiterary language often differs from everyday conversation. Instead of saying that someone is very brave, a writer may describe the person as \"a lion in battle.\" This is a **metaphor**, a direct comparison between two unlike things. If the comparison uses the words *like* or *as*, it becomes a **simile**, such as \"She was as calm as the sea at sunrise.\" These expressions make writing more vivid and memorable.\n\nAnother common device is **personification**, where non-human things are given human qualities. Readers easily understand the sentence, \"The angry wind knocked at the windows,\" even though the wind cannot literally feel anger or knock on doors. Such expressions help readers visualize scenes more clearly.\n\nWriters also use **imagery** to appeal to the senses. A sentence describing the smell of wet earth after rain, the sound of birds at dawn, or the warmth of sunlight on a cold morning allows readers to experience the scene rather than simply observe it. Strong imagery often transforms an ordinary description into a memorable one.\n\nSometimes writers communicate ideas indirectly through **symbols**. A white dove may suggest peace, while a broken chain may symbolize freedom. Readers are not always told exactly what a symbol means. Instead, they interpret its significance by considering the context of the story.\n\nMany readers enjoy literature because it surprises them. This surprise often comes from **irony**. If a firefighter's house catches fire, the situation is unexpected and therefore ironic. If a teacher praises a completely incorrect answer while actually meaning the opposite, this is verbal irony. In drama, the audience sometimes knows information that the characters do not, creating dramatic irony and increasing suspense.\n\nGood readers also pay attention to **tone** and **mood**. Tone reflects the writer's attitude toward the subject, whether serious, humorous, hopeful, or critical. Mood describes the emotional atmosphere experienced by readers. A mystery novel may create suspense, while a nostalgic memoir may produce feelings of warmth and reflection.\n\nThe more students practise reading with these ideas in mind, the more enjoyable literature becomes. Instead of simply asking, \"What happened?\", they begin asking, \"Why did the writer choose this word?\", \"What does this symbol suggest?\", or \"How does the setting influence the characters?\" These questions encourage thoughtful reading and deeper appreciation of literary works.\n\nLearning literary terms is therefore not about memorizing difficult definitions. It is about developing the ability to notice how stories, poems, and plays are carefully constructed. Once readers understand these tools, every literary work becomes an opportunity to discover new meanings and fresh perspectives on human life.",
+  "questions": [
+    {
+      "text": "According to the passage, what makes literature different from ordinary forms of writing?",
+      "options": [
+        "It provides only factual information.",
+        "It focuses mainly on scientific knowledge.",
+        "It explores human experiences, emotions, and ideas.",
+        "It gives step-by-step instructions."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "What is described as one of the main goals of literary study?",
+      "options": [
+        "Memorizing difficult vocabulary",
+        "Discovering the meaning communicated by a text",
+        "Learning historical dates",
+        "Translating literary works"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "According to the passage, experienced readers differ from beginners because they:",
+      "options": [
+        "Read stories more quickly.",
+        "Focus only on the ending.",
+        "Ask deeper questions about the writer's choices.",
+        "Ignore the setting and characters."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "In the example of the young girl who dreams of becoming a doctor, what does the plot describe?",
+      "options": [
+        "The lesson about determination",
+        "The sequence of events in her life",
+        "The author's opinion of education",
+        "The symbolism of poverty"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "What is identified as the theme of the girl's story?",
+      "options": [
+        "Village life is difficult.",
+        "Doctors are respected.",
+        "Determination can overcome hardship.",
+        "Education is expensive."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "According to the passage, how does setting influence a literary work?",
+      "options": [
+        "It only describes the weather.",
+        "It affects characters, atmosphere, and events.",
+        "It replaces the need for a plot.",
+        "It changes the author's tone."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Which of the following may serve as an antagonist according to the passage?",
+      "options": [
+        "Only a villain",
+        "Only another character",
+        "Only society",
+        "A person, nature, fear, illness, or society"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "A selfish person who becomes kind by the end of a story is an example of:",
+      "options": [
+        "A static character",
+        "A flat character",
+        "A dynamic character",
+        "A minor character"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Which statement about a static character is supported by the passage?",
+      "options": [
+        "The character changes completely.",
+        "The character remains largely unchanged.",
+        "The character always becomes the hero.",
+        "The character has no importance."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "The expression \"He was a lion in battle\" illustrates:",
+      "options": [
+        "Simile",
+        "Symbolism",
+        "Metaphor",
+        "Personification"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Which sentence is presented as an example of a simile?",
+      "options": [
+        "Books are windows to the world.",
+        "The wind knocked at the windows.",
+        "She was as calm as the sea at sunrise.",
+        "The white dove flew home."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "The sentence \"The angry wind knocked at the windows\" demonstrates:",
+      "options": [
+        "Irony",
+        "Personification",
+        "Symbolism",
+        "Hyperbole"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "According to the passage, imagery mainly helps readers:",
+      "options": [
+        "Memorize definitions.",
+        "Experience scenes through the senses.",
+        "Understand grammar rules.",
+        "Identify historical facts."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "A white dove is mentioned in the passage as a symbol of:",
+      "options": [
+        "Freedom",
+        "War",
+        "Peace",
+        "Victory"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Why are readers not always told exactly what a symbol means?",
+      "options": [
+        "Symbols have no meaning.",
+        "Writers expect readers to interpret them through context.",
+        "Symbols are only decorative.",
+        "They are explained in another chapter."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Which situation is used in the passage to explain situational irony?",
+      "options": [
+        "A student forgetting homework.",
+        "A firefighter's house catching fire.",
+        "A bird building a nest.",
+        "A teacher reading a novel."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "According to the passage, dramatic irony occurs when:",
+      "options": [
+        "Readers misunderstand the story.",
+        "Characters know everything.",
+        "The audience knows information hidden from the characters.",
+        "The writer changes the ending."
+      ],
+      "correct": 2
+    },
+    {
+      "text": "What is the difference between tone and mood according to the passage?",
+      "options": [
+        "Tone belongs to the reader, while mood belongs to the writer.",
+        "Tone is the writer's attitude, while mood is the reader's emotional response.",
+        "Tone and mood mean exactly the same thing.",
+        "Tone refers only to poetry."
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Which question best reflects the habits of a skilled literary reader?",
+      "options": [
+        "\"How many pages does this book have?\"",
+        "\"When was the book printed?\"",
+        "\"Why did the writer choose this symbol?\"",
+        "\"How much does the book cost?\""
+      ],
+      "correct": 2
+    },
+    {
+      "text": "According to the conclusion of the passage, learning literary terms primarily helps students:",
+      "options": [
+        "Memorize more difficult words.",
+        "Read faster than other students.",
+        "Understand how literary works are carefully constructed.",
+        "Avoid reading poems and plays."
+      ],
+      "correct": 2
+    }
+  ]
+}

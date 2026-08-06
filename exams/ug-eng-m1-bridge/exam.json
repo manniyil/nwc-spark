@@ -1,0 +1,250 @@
+{
+  "id": "ug-eng-m1-bridge",
+  "title": "MA English - Bridge Course Exam",
+  "department": "PG Department of English",
+  "duration": 60,
+  "totalQuestions": 24,
+  "readingMaterial": "Major Eras of British Literature",
+  "questions": [
+    {
+      "text": "The Old English Period is approximately dated:",
+      "options": [
+        "450–1066",
+        "1066–1500",
+        "1500–1660",
+        "1660–1798"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "Which epic poem is considered the greatest surviving work of the Old English Period?",
+      "options": [
+        "Paradise Lost",
+        "The Faerie Queene",
+        "Beowulf",
+        "The Canterbury Tales"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Which historical event marks the beginning of the Middle English Period?",
+      "options": [
+        "The Renaissance",
+        "The Norman Conquest",
+        "The Industrial Revolution",
+        "The English Civil War"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Geoffrey Chaucer is best known for writing:",
+      "options": [
+        "Paradise Lost",
+        "Beowulf",
+        "The Canterbury Tales",
+        "Hamlet"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "The Renaissance is also known as the:",
+      "options": [
+        "Augustan Age",
+        "Elizabethan Age",
+        "Victorian Age",
+        "Modern Age"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "The word \"Renaissance\" means:",
+      "options": [
+        "Discovery",
+        "Revolution",
+        "Rebirth",
+        "Restoration"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Which monarch's reign is closely associated with the Elizabethan Age?",
+      "options": [
+        "Queen Anne",
+        "Queen Victoria",
+        "Queen Elizabeth I",
+        "Queen Mary I"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Which literary form flourished during the Elizabethan Age?",
+      "options": [
+        "Essay",
+        "Novel",
+        "Drama",
+        "Biography"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "William Shakespeare is most closely associated with the:",
+      "options": [
+        "Victorian Period",
+        "Elizabethan Age",
+        "Romantic Period",
+        "Restoration Period"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Which poet is regarded as a leading Metaphysical Poet?",
+      "options": [
+        "John Donne",
+        "John Keats",
+        "William Blake",
+        "Alexander Pope"
+      ],
+      "correct": 0
+    },
+    {
+      "text": "John Milton wrote:",
+      "options": [
+        "The Canterbury Tales",
+        "Paradise Lost",
+        "Gulliver's Travels",
+        "Oliver Twist"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "The Restoration Period began in:",
+      "options": [
+        "1066",
+        "1500",
+        "1660",
+        "1837"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Literature of the Restoration Period is especially known for:",
+      "options": [
+        "Heroic epics",
+        "Wit and satire",
+        "Nature poetry",
+        "Gothic fiction"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "The Neoclassical Period is often called the:",
+      "options": [
+        "Age of Discovery",
+        "Age of Reason",
+        "Age of Revolution",
+        "Age of Empire"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Which writer is famous for Gulliver's Travels?",
+      "options": [
+        "Alexander Pope",
+        "Jonathan Swift",
+        "Samuel Johnson",
+        "John Dryden"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "The Romantic Period is generally considered to have begun in:",
+      "options": [
+        "1660",
+        "1700",
+        "1798",
+        "1901"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Which work is commonly regarded as marking the beginning of English Romanticism?",
+      "options": [
+        "Paradise Lost",
+        "Lyrical Ballads",
+        "The Prelude",
+        "Songs of Innocence"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "William Wordsworth believed poetry should primarily focus on:",
+      "options": [
+        "Kings and heroes",
+        "Scientific discoveries",
+        "Ordinary people and nature",
+        "Political speeches"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Which of the following poets is NOT a Romantic poet?",
+      "options": [
+        "John Keats",
+        "Percy Bysshe Shelley",
+        "Lord Byron",
+        "Alexander Pope"
+      ],
+      "correct": 3
+    },
+    {
+      "text": "The Victorian Period corresponds to the reign of:",
+      "options": [
+        "Queen Elizabeth I",
+        "Queen Anne",
+        "Queen Victoria",
+        "King George III"
+      ],
+      "correct": 2
+    },
+    {
+      "text": "Which Victorian novelist wrote Oliver Twist?",
+      "options": [
+        "Thomas Hardy",
+        "Charles Dickens",
+        "George Eliot",
+        "William Thackeray"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Victorian literature frequently addressed:",
+      "options": [
+        "Mythological heroes",
+        "Social issues such as poverty and industrialization",
+        "Ancient Roman politics",
+        "Medieval romance alone"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Modernist writers often experimented with:",
+      "options": [
+        "Oral storytelling",
+        "Stream of consciousness",
+        "Epic poetry only",
+        "Heroic couplets"
+      ],
+      "correct": 1
+    },
+    {
+      "text": "Which writer is commonly associated with Modernism?",
+      "options": [
+        "Virginia Woolf",
+        "Geoffrey Chaucer",
+        "Alexander Pope",
+        "William Wordsworth"
+      ],
+      "correct": 0
+    }
+  ]
+}

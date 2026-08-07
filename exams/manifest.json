@@ -9,6 +9,14 @@
       "active": true
     },
     {
+      "id": "ug-eng-sem-one",
+      "title": "BA English - Bridge Course",
+      "duration": 60,
+      "totalQuestions": 20,
+      "department": "PG Department of English",
+      "active": true
+    },
+    {
       "id": "ug-5-capernaum",
       "title": "Capernaum",
       "duration": 20,
